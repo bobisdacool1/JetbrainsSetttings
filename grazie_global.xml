@@ -1,0 +1,233 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Russian" />
+      </set>
+    </option>
+    <option name="enabledGrammarStrategies">
+      <set>
+        <option value="nl.rubensten.texifyidea:Latex" />
+        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
+        <option value="tanvd.grazi:TEXT" />
+      </set>
+    </option>
+    <option name="disabledGrammarStrategies">
+      <set>
+        <option value="com.intellij.php.grazie:PHP" />
+      </set>
+    </option>
+    <option name="userEnabledRules">
+      <set>
+        <option value="ABUNDANCE" />
+        <option value="ACCEDE_TO" />
+        <option value="ACCELERATE" />
+        <option value="ACCENTUATE" />
+        <option value="ACCOMMODATION" />
+        <option value="ACCOMPANY" />
+        <option value="ACCOMPLISH" />
+        <option value="ACCRUE" />
+        <option value="ACCURATE" />
+        <option value="ACQUIRE" />
+        <option value="AGREEMENT_THEIR_HIS" />
+        <option value="ALL_THINGS_CONSIDERED" />
+        <option value="ALONG_THE_LINES_OF" />
+        <option value="ALSO_SENT_END" />
+        <option value="AND_ALSO" />
+        <option value="APOSTROPHE_IN_DATES" />
+        <option value="APOSTROPHE_IN_DAYS" />
+        <option value="APOSTROPHE_VS_QUOTE" />
+        <option value="APOS_SPACE_CONTRACTION" />
+        <option value="ARE_ABLE_TO" />
+        <option value="ARROWS" />
+        <option value="ARTICLE_MISSING" />
+        <option value="ASSIST_ASSISTANCE" />
+        <option value="AS_A_MATTER_OF_FACT" />
+        <option value="AS_PER" />
+        <option value="AT_ALL_TIMES" />
+        <option value="AT_YOUR_EARLIEST_CONVENIENCE" />
+        <option value="AllCaps" />
+        <option value="BASIS_ON_A" />
+        <option value="BECAUSE" />
+        <option value="BELATED" />
+        <option value="BEST_EVER" />
+        <option value="BE_ADVISED" />
+        <option value="BE_A_X_ONE" />
+        <option value="BLAGOZVUCHNOST" />
+        <option value="BLEND_TOGETHER" />
+        <option value="BRIEF_MOMENT" />
+        <option value="BY_MEANS_OF" />
+        <option value="CANT_HELP_BUT" />
+        <option value="CAN_NOT" />
+        <option value="CAPITALIZATION_NNP_DERIVED" />
+        <option value="CD_TH" />
+        <option value="CLEARLY_OR_OBVIOUSLY" />
+        <option value="COMMA_PARENTHESIS_WHITESPACE" />
+        <option value="COMMA_WHICH" />
+        <option value="COMPLEX_SOUZ_PUNCT_2" />
+        <option value="COPYRIGHT" />
+        <option value="CURRENCY" />
+        <option value="CURRENCY_SPACE" />
+        <option value="CURRENTLY" />
+        <option value="DASH_RULE" />
+        <option value="DESPITE_THE_FACT" />
+        <option value="DIVIDE_IN_INTO" />
+        <option value="DOUBLE_APOSTROPHE" />
+        <option value="DRAW_ATTENTION" />
+        <option value="DUE_TO_THE_FACT" />
+        <option value="EACH_AND_EVERY_NOUN" />
+        <option value="ELLIPSIS" />
+        <option value="EMPHATIC_REFLEXIVE_PRONOUNS" />
+        <option value="EMPTY_LINE" />
+        <option value="ENGLISH_WORD_REPEAT_BEGINNING_RULE" />
+        <option value="EN_DASH_RULE" />
+        <option value="EN_PLAIN_ENGLISH_REPLACE" />
+        <option value="EN_QUOTES" />
+        <option value="EN_REDUNDANCY_REPLACE" />
+        <option value="EN_SPECIFIC_CASE" />
+        <option value="EXACT_SAME" />
+        <option value="E_PRIME_LOOSE" />
+        <option value="E_PRIME_STRICT" />
+        <option value="FILLER_WORDS_RU" />
+        <option value="FLASHPOINT" />
+        <option value="FOR_ALL_INTENTS_AND_PURPOSES" />
+        <option value="FOR_SOMETIME_FOR_SOME_TIME" />
+        <option value="FOR_THE_MOST_PART" />
+        <option value="FOR_THE_PURPOSE_OF" />
+        <option value="HASH_SYMBOL" />
+        <option value="HAVE_A_SHOWER" />
+        <option value="HAVE_A_TENDENCY" />
+        <option value="HAVE_THE_ABILITY_TO" />
+        <option value="HOPEFULLY" />
+        <option value="HYPOTHESIS_TYPOGRAPHY" />
+        <option value="IN_A_MANNER_OF_SPEAKING" />
+        <option value="IN_A_VERY_REAL_SENSE" />
+        <option value="IN_MY_OPINION" />
+        <option value="IN_ORDER_TO" />
+        <option value="IN_TERMS_OF" />
+        <option value="IN_TERM_OF" />
+        <option value="IN_THE_AFFIRMATIVE" />
+        <option value="IN_THE_CASE_OF" />
+        <option value="IN_THE_EVENT" />
+        <option value="IN_THE_FINAL_ANALYSIS" />
+        <option value="IN_THE_NATURE_OF" />
+        <option value="IN_THE_NEIGHBORHOOD_OF" />
+        <option value="IN_THE_PROCESS_OF" />
+        <option value="IT_SEEMS_OR_APPEARS_THAT" />
+        <option value="I_VE_A" />
+        <option value="KAK_VVODNOE" />
+        <option value="KAVITCHKI" />
+        <option value="MAJORITY" />
+        <option value="MAKE_AN_ATTEMPT" />
+        <option value="MAKE_DECISIONS_ABOUT" />
+        <option value="MISSING_APOSTROPHE" />
+        <option value="MULTIPLICATION_SIGN" />
+        <option value="MissingYO" />
+        <option value="NEGATE_MEANING" />
+        <option value="NON_ENGLISH_CHARACTER_IN_A_WORD" />
+        <option value="NON_STANDARD_COMMA" />
+        <option value="NON_STANDARD_QUESTION_MARK" />
+        <option value="NON_STANDARD_WORD" />
+        <option value="NOT_ABLE" />
+        <option value="NOT_ACCEPT" />
+        <option value="NOT_CERTAIN" />
+        <option value="NOT_MANY" />
+        <option value="NOT_SURE_IT_WORKS" />
+        <option value="NOT_THE_SAME" />
+        <option value="NOT_UNLIKE" />
+        <option value="NOT_VERY_OFTEN" />
+        <option value="Ne_pril_prich1" />
+        <option value="Num_plus_Noun1" />
+        <option value="OBTAIN" />
+        <option value="ON_THE_OCCASION_OF" />
+        <option value="ON_THE_OTHER_HAND" />
+        <option value="ON_TWO_SEPARATE_OCCASIONS" />
+        <option value="O_CONNOR" />
+        <option value="O_tom_chto" />
+        <option value="Obobchajuchee_slovo" />
+        <option value="PARAGRAPH_REPEAT_BEGINNING_RULE" />
+        <option value="PARTICLE_JE" />
+        <option value="PASSIONATE_BY_ABOUT_2" />
+        <option value="PLUS_MINUS" />
+        <option value="POPULAR_AMONG_WITH" />
+        <option value="PREDLOGI_KROME" />
+        <option value="PUNCTUATION_PARAGRAPH_END" />
+        <option value="PUNCTUATION_PARAGRAPH_END2" />
+        <option value="PUNKT_KOTORIJ1" />
+        <option value="Prep_i_2" />
+        <option value="QUESTION_X_WHETHER" />
+        <option value="READABILITY_RULE_DIFFICULT" />
+        <option value="READABILITY_RULE_SIMPLE" />
+        <option value="REFERRING_BACK" />
+        <option value="REGARD_AS_BEING" />
+        <option value="RU_WORD_REPEAT" />
+        <option value="RU_WORD_ROOT_REPEAT" />
+        <option value="R_SYMBOL" />
+        <option value="SENTENCE_WHITESPACE" />
+        <option value="SERIAL_COMMA_OFF" />
+        <option value="SERIAL_COMMA_ON" />
+        <option value="SOLICIT_FOR" />
+        <option value="SOONER_RATHER_THAN_LATER" />
+        <option value="SPURIOUS_APOSTROPHE" />
+        <option value="STATE-OF-THE-ART" />
+        <option value="SUFFICIENT" />
+        <option value="Skazuem_sovmestnoje_dejstvije" />
+        <option value="TAKE_ACTION_TO" />
+        <option value="THAT_EXISTS" />
+        <option value="THAT_MISSING_VERB" />
+        <option value="THE_TRUTH_OR_FACT_IS" />
+        <option value="THE_UNDERSIGNED" />
+        <option value="TIME_NOW" />
+        <option value="TIRED_INTENSIFIERS" />
+        <option value="TL_DR" />
+        <option value="TO_DO_HYPHEN" />
+        <option value="TRADEMARK" />
+        <option value="TYPE_OF" />
+        <option value="Three_dot" />
+        <option value="UNTIL_SUCH_TIME_AS" />
+        <option value="UPPERCASE_SENTENCE_START" />
+        <option value="USELESS_THAT" />
+        <option value="Unknown_words" />
+        <option value="VERY_SMALL_TINY" />
+        <option value="Verb_and_PNN_Nom" />
+        <option value="WAITING_MY_PATIENT" />
+        <option value="WHAT_I_MEAN_TO_SAY_IS_THAT" />
+        <option value="WHITESPACE_PARAGRAPH" />
+        <option value="WHITESPACE_PARAGRAPH_BEGIN" />
+        <option value="WHITESPACE_RULE" />
+        <option value="WIKIPEDIA_12_AM" />
+        <option value="WIKIPEDIA_12_PM" />
+        <option value="WIKIPEDIA_CONTRACTIONS" />
+        <option value="WIKIPEDIA_CURRENTLY" />
+        <option value="WITH_OR_IN_REFERENCE_OR_REGARD_TO" />
+        <option value="WORD_CONTAINS_UNDERSCORE" />
+        <option value="WORLD_AROUND_IT" />
+        <option value="WORTHWHILE" />
+        <option value="WRONG_APOSTROPHE" />
+        <option value="YOU_ARE_REQUESTED" />
+        <option value="grammar_tut_zdes" />
+        <option value="in_excess_of" />
+        <option value="kak_bi" />
+        <option value="po_povodu_togo" />
+        <option value="tak_skazat" />
+      </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="на клиент" />
+            <option value="Change name template" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+    <option name="checkingContext">
+      <CheckingContext>
+        <option name="isCheckInCommitMessagesEnabled" value="true" />
+        <option name="isCheckInStringLiteralsEnabled" value="true" />
+      </CheckingContext>
+    </option>
+  </component>
+</application>
