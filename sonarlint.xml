@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="rulesByKey">
+      <map>
+        <entry key="php:S1186">
+          <value>
+            <Rule active="false" key="php:S1186" />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <rules>
+      <Rule active="false" key="php:S1186" />
+    </rules>
+  </component>
+</application>
