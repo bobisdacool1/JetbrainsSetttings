@@ -219,6 +219,7 @@
           <set>
             <option value="на клиент" />
             <option value="Change name template" />
+            <option value="is" />
           </set>
         </option>
       </SuppressingContext>
