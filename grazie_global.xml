@@ -218,8 +218,9 @@
         <option name="suppressed">
           <set>
             <option value="на клиент" />
-            <option value="Change name template" />
             <option value="is" />
+            <option value="Change name template" />
+            <option value="pagination, statuses, and campaign" />
           </set>
         </option>
       </SuppressingContext>
