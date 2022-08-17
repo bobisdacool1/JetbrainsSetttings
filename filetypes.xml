@@ -11,6 +11,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="nginx" approved="true" type="Nginx Configuration" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
 </application>
