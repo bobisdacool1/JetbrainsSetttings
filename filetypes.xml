@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="bootstrap" type="AUTO_DETECTED" />
       <mapping pattern=".env" type="AUTO_DETECTED" />
       <mapping pattern="php" type="AUTO_DETECTED" />
       <mapping pattern="YOeIZfP0Xu4ZjwYVFWrhcUDehKh99igvEzvRdQUm" type="PLAIN_TEXT" />
