@@ -225,11 +225,12 @@
           <set>
             <option value="campaigns_dsps" />
             <option value="на клиент" />
+            <option value="Add possibility to" />
             <option value="is" />
             <option value="Fix AjaxSelect." />
             <option value="pagination, statuses, and campaign" />
             <option value="Change name template" />
-            <option value="Add possibility to" />
+            <option value="Implement adding campaign" />
           </set>
         </option>
       </SuppressingContext>
