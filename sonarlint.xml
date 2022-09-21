@@ -2,6 +2,11 @@
   <component name="SonarLintGlobalSettings">
     <option name="rulesByKey">
       <map>
+        <entry key="php:S1117">
+          <value>
+            <Rule active="false" key="php:S1117" />
+          </value>
+        </entry>
         <entry key="php:S1186">
           <value>
             <Rule active="false" key="php:S1186" />
@@ -16,6 +21,7 @@
     </option>
     <rules>
       <Rule active="false" key="php:S1192" />
+      <Rule active="false" key="php:S1117" />
       <Rule active="false" key="php:S1186" />
     </rules>
   </component>
