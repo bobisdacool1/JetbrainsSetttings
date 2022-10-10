@@ -7,6 +7,11 @@
             <Rule active="false" key="php:S1117" />
           </value>
         </entry>
+        <entry key="php:S112">
+          <value>
+            <Rule active="false" key="php:S112" />
+          </value>
+        </entry>
         <entry key="php:S1186">
           <value>
             <Rule active="false" key="php:S1186" />
@@ -20,9 +25,10 @@
       </map>
     </option>
     <rules>
-      <Rule active="false" key="php:S1192" />
       <Rule active="false" key="php:S1117" />
       <Rule active="false" key="php:S1186" />
+      <Rule active="false" key="php:S112" />
+      <Rule active="false" key="php:S1192" />
     </rules>
   </component>
 </application>
