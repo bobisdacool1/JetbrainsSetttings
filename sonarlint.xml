@@ -22,9 +22,15 @@
             <Rule active="false" key="php:S1192" />
           </value>
         </entry>
+        <entry key="php:S3011">
+          <value>
+            <Rule active="false" key="php:S3011" />
+          </value>
+        </entry>
       </map>
     </option>
     <rules>
+      <Rule active="false" key="php:S3011" />
       <Rule active="false" key="php:S1117" />
       <Rule active="false" key="php:S1186" />
       <Rule active="false" key="php:S112" />
