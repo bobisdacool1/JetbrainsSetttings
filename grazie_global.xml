@@ -222,14 +222,14 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="Add possibility to" />
-            <option value="Change name template" />
-            <option value="Fix AjaxSelect." />
-            <option value="Implement adding campaign" />
             <option value="campaigns_dsps" />
-            <option value="is" />
-            <option value="pagination, statuses, and campaign" />
             <option value="на клиент" />
+            <option value="Add possibility to" />
+            <option value="Implement adding campaign" />
+            <option value="is" />
+            <option value="Fix AjaxSelect." />
+            <option value="pagination, statuses, and campaign" />
+            <option value="Change name template" />
           </set>
         </option>
       </SuppressingContext>
