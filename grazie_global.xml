@@ -230,6 +230,7 @@
             <option value="Fix AjaxSelect." />
             <option value="pagination, statuses, and campaign" />
             <option value="Change name template" />
+            <option value="are" />
           </set>
         </option>
       </SuppressingContext>
