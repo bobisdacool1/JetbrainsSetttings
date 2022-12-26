@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…\packages'" />
-    <option name="defaultScopeName" value="Directory '…\packages'" />
-    <option name="SEARCH_SCOPE" value="Directory '…\packages'" />
+    <option name="customScope" value="Directory '…\projects\vdp\app'" />
+    <option name="defaultScopeName" value="Directory '…\projects\vdp\app'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '…\projects\vdp\app'" />
     <option name="FILE_MASK" value="*.php" />
     <mask>*.js</mask>
     <mask>*.vue</mask>
