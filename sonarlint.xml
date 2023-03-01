@@ -3,6 +3,11 @@
     <option name="autoTrigger" value="false" />
     <option name="rulesByKey">
       <map>
+        <entry key="Web:BoldAndItalicTagsCheck">
+          <value>
+            <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
+          </value>
+        </entry>
         <entry key="php:S101">
           <value>
             <Rule active="false" key="php:S101" />
@@ -42,12 +47,13 @@
     </option>
     <rules>
       <Rule active="false" key="php:S1117" />
-      <Rule active="false" key="php:S101" />
       <Rule active="false" key="php:S112" />
+      <Rule active="false" key="php:S101" />
+      <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
       <Rule active="false" key="php:S1186" />
       <Rule active="false" key="php:S3011" />
-      <Rule active="false" key="php:S1192" />
       <Rule active="false" key="php:S3360" />
+      <Rule active="false" key="php:S1192" />
     </rules>
   </component>
 </application>
