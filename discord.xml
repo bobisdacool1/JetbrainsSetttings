@@ -8,16 +8,15 @@
     <option name="applicationIconLargeTextCustom" value="" />
     <option name="applicationIconSmallTextCustom" value="" />
     <option name="applicationTime" value="APPLICATION" />
-    <option name="projectDetails" value="CUSTOM" />
     <option name="projectDetailsCustom" value="Super secret NDA Project" />
-    <option name="projectState" value="NONE" />
+    <option name="projectState" value="PROJECT_VCS_BRANCH" />
     <option name="projectStateCustom" value="" />
     <option name="projectIconLargeTextCustom" value="" />
     <option name="projectIconSmallTextCustom" value="" />
     <option name="projectTime" value="APPLICATION" />
-    <option name="fileDetails" value="CUSTOM" />
+    <option name="fileDetails" value="FILE_NAME" />
     <option name="fileDetailsCustom" value="Super secret NDA Project" />
-    <option name="fileState" value="NONE" />
+    <option name="fileState" value="PROJECT_NAME_VCS_BRANCH" />
     <option name="fileStateCustom" value="" />
     <option name="fileIconLargeTextCustom" value="" />
     <option name="fileIconSmallTextCustom" value="" />
