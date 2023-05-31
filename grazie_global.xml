@@ -227,6 +227,7 @@
             <option value="Add possibility to" />
             <option value="Fix predefined options" />
             <option value="is" />
+            <option value="Rename const due" />
             <option value="Fix AjaxSelect." />
             <option value="Change name template" />
             <option value="Add ability to" />
@@ -235,7 +236,8 @@
             <option value="Implement adding campaign" />
             <option value="Add an expression" />
             <option value="pagination, statuses, and campaign" />
-            <option value="Rename const due" />
+            <option value="be" />
+            <option value="Add DomainCheckerEvent," />
           </set>
         </option>
       </SuppressingContext>
