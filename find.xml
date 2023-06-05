@@ -5,7 +5,7 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.json</mask>
     <mask>*.js</mask>
-    <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
